@@ -12,7 +12,7 @@ public class EmailValidation {
         //String email = br.readLine();
  
 	// By using Scanner class:
-	System.out.println("Entered email id is : ");
+	System.out.println("Entered email id is: ");
         Scanner scanner = new Scanner(System.in);
 	String email = scanner.nextLine();
  
